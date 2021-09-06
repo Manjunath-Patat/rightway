@@ -1,0 +1,488 @@
+Uri: https://edumen.durbarit.com/index.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\index.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/assets/img/banner/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\banner\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/other/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\other\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/other/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\other\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/other/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\other\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/bg/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\bg\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/other/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\other\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/testimonial/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\testimonial\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/testimonial/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\testimonial\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/testimonial/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\testimonial\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/other/5.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\other\5.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/css/vendor.css
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\css\vendor.css
+Content Type: text/css
+
+Uri: https://edumen.durbarit.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://edumen.durbarit.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://edumen.durbarit.com/about.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\about.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/contact.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\contact.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/home-2.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\home-2.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/home-3.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\home-3.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/course.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\course.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/course-single.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\course-single.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/event.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\event.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/single-event.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\single-event.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/team.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\team.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/single-team.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\single-team.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/gallery.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\gallery.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/signin.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\signin.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/signup.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\signup.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/blog.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\blog.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/single-blog.html
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\single-blog.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/assets/img/logo-2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\logo-2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/about/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\about\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/icon/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\icon\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/icon/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\icon\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/icon/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\icon\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/intro/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\intro\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/intro/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\intro\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/intro/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\intro\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/intro/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\intro\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/about/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\about\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/about/6.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\about\6.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/about/5.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\about\5.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/about/7.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\about\7.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/course/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\course\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/team/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\team\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/course/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\course\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/course/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\course\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/course/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\course\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/course/5.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\course\5.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/course/6.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\course\6.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/team/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\team\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/team/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\team\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/event/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\event\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/event/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\event\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/icon/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\icon\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/01.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\01.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/02.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\02.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/03.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\03.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/client/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\client\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/client/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\client\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/client/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\client\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/client/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\client\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/js/vendor.js
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\js\vendor.js
+Content Type: application/javascript
+
+Uri: https://edumen.durbarit.com/assets/js/counter.js
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\js\counter.js
+Content Type: application/javascript
+
+Uri: https://edumen.durbarit.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://edumen.durbarit.com/assets/fonts/line-awesome.eot?v=1.1.
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\line-awesome.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumen.durbarit.com/assets/fonts/line-awesome.eot??v=1.1.
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\line-awesome-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumen.durbarit.com/assets/fonts/line-awesome.woff2?v=1.1.
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\line-awesome.woff2
+Content Type: font/x-woff2
+
+Uri: https://edumen.durbarit.com/assets/fonts/line-awesome.woff?v=1.1.
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\line-awesome.woff
+Content Type: font/x-woff
+
+Uri: https://edumen.durbarit.com/assets/fonts/line-awesome.ttf?v=1.1.
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\line-awesome.ttf
+Content Type: application/octet-stream
+
+Uri: https://edumen.durbarit.com/assets/fonts/line-awesome.svg?v=1.1.
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\line-awesome.svg
+Content Type: image/svg+xml
+
+Uri: https://edumen.durbarit.com/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumen.durbarit.com/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumen.durbarit.com/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/x-woff2
+
+Uri: https://edumen.durbarit.com/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://edumen.durbarit.com/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://edumen.durbarit.com/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\css.css
+Content Type: text/css
+
+Uri: https://edumen.durbarit.com/assets/img/bg/6.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\bg\6.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/bg/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\bg\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/icon/5.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\icon\5.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/bg/5.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\bg\5.png
+Content Type: image/png
+
+Uri: https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d29208.601361499546!2d90.3598076!3d23.7803374!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1589109092857!5m2!1sen!2sbd
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/assets/img/banner/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\banner\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/bg/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\bg\4.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/embed/Wimkqo8gDZ0
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\embed\Wimkqo8gDZ0.html
+Content Type: text/html
+
+Uri: https://edumen.durbarit.com/assets/img/intro/5.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\intro\5.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/intro/6.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\intro\6.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/guide/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\guide\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/guide/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\guide\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/guide/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\guide\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/banner/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\banner\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/category/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\category\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/category/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\category\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/category/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\category\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/category/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\category\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/category/5.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\category\5.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/bg/7.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\bg\7.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/icon/6.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\icon\6.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/icon/7.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\icon\7.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/icon/8.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\icon\8.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/course/course-single.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\course\course-single.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/team/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\team\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/w1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\w1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/w2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\w2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/w3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\w3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/event/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\event\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/event/4.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\event\4.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/3.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\3.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/team/5.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\team\5.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/team/6.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\team\6.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/team/7.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\team\7.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/gallery/6.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\gallery\6.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/gallery/7.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\gallery\7.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/gallery/8.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\gallery\8.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/gallery/9.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\gallery\9.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/gallery/10.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\gallery\10.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/gallery/11.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\gallery\11.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/1.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\1.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/blog/2.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\blog\2.png
+Content Type: image/png
+
+Uri: https://edumen.durbarit.com/assets/img/other/6.png
+File Name: C:\Downloaded Web Sites\edumen.durbarit.com\assets\img\other\6.png
+Content Type: image/png
+
